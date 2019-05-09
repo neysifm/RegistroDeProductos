@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace RegistroDProductos
 {
-    public partial class Form1 : Form
+    public partial class FormRegistrodeProductos : Form
     {
-        public Form1()
+        public FormRegistrodeProductos()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
